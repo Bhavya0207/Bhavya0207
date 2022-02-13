@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @Bhavya0207
-- 👀 I’m interested in all sorts of projects
-- 🌱 I’m currently learning Python and web development
 
-<!---
-Bhavya0207/Bhavya0207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Bhavya! 👋
+
+
+## 🚀 About Me
+I'm a Student
+I am a high school student in Delh,India\
+I am interested in all sorts of projects\
+My major skills are Python and Web Development\
+ 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhavya-goel.netlify.app)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bhavya02009908)
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...\
+Python
+
