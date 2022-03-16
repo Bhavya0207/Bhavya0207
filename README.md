@@ -1,9 +1,9 @@
 
 # Hi, I'm Bhavya! 👋
-
+---
 
 ## 🚀 About Me
-I'm a Student
+
 I am a high school student in Delh,India\
 I am interested in all sorts of projects\
 My major skills are Python and Web Development\
