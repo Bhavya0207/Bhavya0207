@@ -1,6 +1,5 @@
 
 # Hi, I'm Bhavya! 👋
----
 
 ## 🚀 About Me
 
