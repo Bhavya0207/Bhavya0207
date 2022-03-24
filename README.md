@@ -5,7 +5,7 @@
 
 I am a high school student in Delh,India\
 I am interested in all sorts of projects\
-My major skills are Python and Web Development\
+My major skills are Python and Web Development
  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhavya-goel.netlify.app/#main)
