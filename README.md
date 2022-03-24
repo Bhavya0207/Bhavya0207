@@ -14,6 +14,13 @@ My major skills are Python and Web Development\
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...\
-Python
-
+- Javascript
+- HTML
+- CSS
+- React
+- Python
+- Selenium
+- Beautifull soup
+- Openpyxl
+- Git
+- Netlify
